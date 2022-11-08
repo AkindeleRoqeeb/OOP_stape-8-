@@ -1,0 +1,6 @@
+name,price,quantity
+"phone",100,1
+"laptop",1000,3
+"cable",1.0,5
+"mouse",50,6
+"keyboard",7.5,5
